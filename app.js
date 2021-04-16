@@ -14,7 +14,7 @@ app.use(express.static('./build'))
 const jogos = require('./routes/jogos')
 app.use(jogos)
 
-const port = proccess.env.PORT || 4000
+const port = process.env.PORT || 4000
 app.listen(port, ()=> {
     console.log("Servidor ok: http://localhost:4000/")
 })
