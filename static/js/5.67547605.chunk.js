@@ -1,0 +1,2 @@
+(this.webpackJsonpnewfront=this.webpackJsonpnewfront||[]).push([[5],{65:function(n,t,e){},80:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return c}));e(65);var i=e(1);function c(n){return Object(i.jsx)("main",{className:"container-fluid text-light",children:n.children})}}}]);
+//# sourceMappingURL=5.67547605.chunk.js.map
